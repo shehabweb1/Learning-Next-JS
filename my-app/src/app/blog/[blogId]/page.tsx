@@ -1,4 +1,3 @@
-
 type props = {
 	params: {
 		blogId: string;
